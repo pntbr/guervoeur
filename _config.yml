@@ -7,6 +7,17 @@ defaults:
     values:
       layout: location
 
+
+navbar-links:
+  Archives:
+    - <2020>: "archives2020"
+    - <2019>: "archives2019"
+    - <2018>: "archives2018"
+  # Associations: "https://associations.amzer.bzh"
+  Contact: "contact" 
+  Surprise: "404" 
+  # Author's home: "https://deanattali.com"
+
 collections_dir: Les écrits de Georgina
 
 collections:
