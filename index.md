@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 ## Le bon gardien
  
 La bonté m’a souvent rendu visite. Elle a pris cette fois un visage repoussant, plein de traces de petite vérole. Ses yeux noirs lancent des flammes terribles et sa voix est rude et tonitruante. Dans mon for intérieur, j’ai de l’aversion pour ce grand corps fruste, écrasant de puissance.
